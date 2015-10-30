@@ -40,7 +40,7 @@ checkout.
 There are 8 sensors in the demo program. Two servers are available to retrieve the sensor 
 readings:
 
-<bold>Serial Port Server</bold> 
+<em>Serial Port Server:</em> 
 
 Send the command: AT+GETSENSOR=n<cr><lf>
 
