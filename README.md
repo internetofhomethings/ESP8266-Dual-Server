@@ -1,6 +1,6 @@
 <h2><strong>ESP8266 Dual Server Software</strong></h2>
 
-This project interface the ESP8266 with AWS DynamoDB using the Arduino IDE platform.
+This project supports client requests from both the serial port and http GET.
 
 Setup:
 
@@ -70,7 +70,7 @@ A JSON string will be returned with the sensor values in this format:
 "B_Pressure":"29.7",
 "B_Temperature":"71.1",
 "B_Altitude":"555.0",
-"DS_TempInside":"79.5",    <--NOTE: This value will range from 60-80 F in 1.5 degree increments
+"DS_TempInside":"79.5",
 "DS_TempOutside":"79.2",
 "DS_TempAttic":"88.5",
 "DH_Humidity":"34.7",
