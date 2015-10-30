@@ -8,10 +8,10 @@ Setup:
 
 2. Change the WIFI_CLIENTSSID and WIFI_CLIENTPASSWORD values in the file user_config.h 
 to match your local WIFI network.
-
+<
 #define WIFI_CLIENTSSID		"yourWIFIssid"
 #define WIFI_CLIENTPASSWORD	"yourWIFIpassword"
-
+>
 Also, if your local area network subnet is different, also update TCPSERVERIP:
 
 #define TCPSERVERIP			"192.168.0.106"
