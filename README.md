@@ -40,7 +40,7 @@ checkout.
 There are 8 sensors in the demo program. Two servers are available to retrieve the sensor 
 readings:
 
-1. Serial Port Server 
+<bold>Serial Port Server</bold> 
 
 Send the command: AT+GETSENSOR=n<cr><lf>
 
@@ -58,7 +58,7 @@ AT+GETSENSOR=2<cr><lf>
 Reply
 79.2
 
-2. Web Server:
+<bold>Web Server:</bold>
 
 Enter the following URL in a web browser (adjust IP & port to your settings):
 
