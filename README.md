@@ -18,7 +18,7 @@ define TCPSERVERIP			"192.168.0.106"
 
 And the port if a different one is desired:
 
-#define TCPSERVERPORT		9703
+define TCPSERVERPORT		9703
 
 Operation:
 
@@ -66,13 +66,13 @@ http://192.168.0.106:9703/?request=GetSensors
 
 A JSON string will be returned with the sensor values in this format:
 
-{
-"B_Pressure":"29.7",
-"B_Temperature":"71.1",
-"B_Altitude":"555.0",
-"DS_TempInside":"79.5",
-"DS_TempOutside":"79.2",
-"DS_TempAttic":"88.5",
-"DH_Humidity":"34.7",
-"DH_Temperature":"69.1"
+{<br>
+"B_Pressure":"29.7",<br>
+"B_Temperature":"71.1",<br>
+"B_Altitude":"555.0",<br>
+"DS_TempInside":"79.5",<br>
+"DS_TempOutside":"79.2",<br>
+"DS_TempAttic":"88.5",<br>
+"DH_Humidity":"34.7",<br>
+"DH_Temperature":"69.1"<br>
 }
