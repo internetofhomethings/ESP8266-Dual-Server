@@ -20,7 +20,7 @@ And the port if a different one is desired:
 
 define TCPSERVERPORT		9703
 
-Operation:
+**Operation:**
 
 The current settings (change as required and noted above to match your configuration):
 
