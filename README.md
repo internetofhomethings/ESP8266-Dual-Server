@@ -2,7 +2,7 @@
 
 This project supports client requests from both the serial port and http GET.
 
-Setup:
+**Setup:**
 
 1. Copy the ATnWebServer folder to your EspressIf SDK projects folder.
 
