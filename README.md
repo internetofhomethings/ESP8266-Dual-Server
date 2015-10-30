@@ -48,7 +48,7 @@ over the ESP8266 serial port.
 
 where "n" is the sensor number (1-8)
 
-Note: This server will also respond to the standard AT command set.
+*Note: This server will also respond to the standard AT command set.*
 
 Example:
 
